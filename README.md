@@ -1,2 +1,2 @@
 # GPTLDRArticle
-GPT-powered TLDR for online articles
+GPT-powered TLDR for online Articles
